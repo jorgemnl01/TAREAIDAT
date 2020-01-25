@@ -1,0 +1,27 @@
+{
+	"profesores": [
+		{	
+		    "nombre":"Juan",
+		    "edad":35,
+		    "alumnos":[
+				{ "alumno":"Jorge", "nota":"18" },
+				{ "alumno":"Maria", "nota":"15" },
+				{ "alumno":"Raul", "nota":"13" }
+		    ]
+		},
+		{
+		    "nombre":"Carlos",
+		    "edad":40,
+		    "alumnos":[
+	    		{ "alumno":"Miguel", "nota":"17" }
+		    ]
+		},
+		{
+		    "nombre":"Ada",
+		    "edad":35,
+		    "alumnos":[
+	    		{ "alumno":"Julio", "nota":"14" }
+		    ]
+		},	
+    ]
+}
